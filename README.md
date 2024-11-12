@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @diegolohan14
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Front-end projects
+- 👀 I’m interested in Data Analysts
+- 🌱 I’m currently learning Power BI
+- 💞️ I’m looking to collaborate on Data Analyst projects
 - 📫 How to reach me diegolohan14@gmail.com and +55 (61) 98445-0937.
 
 <!---
