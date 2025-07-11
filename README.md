@@ -1,6 +1,8 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/81195808?s=400&u=e1b532f5f2675d3de9f1660f06bc8b9668713f08&v=4"  />
-</div>
+<h1 align="center">Diego Lohan</h1>
+
+###
+
+<h1 align="center">Analista de Dados | Power BI | Python | SQL | Business Intelligence | Analytics | ETL</h1>
 
 ###
 
@@ -10,10 +12,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Diego Lohan <br>Analista de Dados | Power BI | Python | SQL | Business Intelligence | Analytics | ETL</h1>
 
 ###
 
